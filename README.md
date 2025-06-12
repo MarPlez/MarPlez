@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MarPlez
+- 👀 I’m interested in frontend and photography
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: marcinplezia@gmail.com
